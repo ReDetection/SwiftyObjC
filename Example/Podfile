@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SwiftyObjC_Tests' do
+  pod 'SwiftyObjC', :path => '../'
+  
+  
+end

@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyObjC (1.0.0)
+
+DEPENDENCIES:
+  - SwiftyObjC (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftyObjC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftyObjC: 26e4ae5f5800badb9945283a62200764ac0a6126
+
+PODFILE CHECKSUM: a6d982cc384cc0ad480e36695ba4c38c7d223bd2
+
+COCOAPODS: 1.5.3
